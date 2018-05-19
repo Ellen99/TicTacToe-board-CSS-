@@ -1,38 +1,3 @@
-Private note added
-Due May 28, 11:59 PM
-Lesson 1 Homework
-
-Nairi Harutyunyan
-May 18 (Edited 12:10 AM)
-Write tic-tac-toe game board using Flex(CSS).
-Game board size should be (600px, 600px)
-
-The box sizes should be dynamically taken depending on the sizes of the game board.
-In case of hover event the symbol "O" should appear on the center of the box.
-Your work
-UNSUBMITTED
-Files you add or create can be viewed and edited by your teacher
-
-GitHub - Ellen99/TicTacToe-board-CSS-
-https://github.com/Ellen99/TicTacToe-board-CSS-.git
-
-index.html
-HTML
-
-style.css
-Style Sheet
-Private comments
-
-Nairi Harutyunyan3:38 PM
-Elen ջան լավ էր ստացվել միայն *-ով խորհուրդ չէի տա flex center տալ
-
-Elen Chatikyan3:54 PM
-իսկ ճիշտ մոտեցում է body-ին id տալը?
-
-Elen Chatikyan3:57 PM
-փոփոխեցի, կնայեք?
-ավելի լավ ա սենց? :)
-
 #bodyid{
 	display: flex;
 	justify-content: center;
